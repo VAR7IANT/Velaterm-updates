@@ -1,0 +1,11 @@
+{
+  "version": "0.2.2-beta.1",
+  "notes": "### Changed\n- Updates are now distributed from the public `VAR7IANT/Velaterm-updates` repository, so installed apps can check and download them without credentials. The first updater-enabled build; install it manually, later builds update in place. See `docs/UPDATES.md`.",
+  "pub_date": "2026-10-26T15:38:05Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScFBaYmhWT3BWUG54WTc1TWNsUG92YkdmNVgvS29nMXhobE9PU0ZzTmZPbXp4Y1B6VTN2ZERwTEFIK0lBOUNLOHdGTzJaSll4blZVOFQzVitnODZkVWxGL1B3UVhHV0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI5MDg1CWZpbGU6VmVsYVRlcm1fMC4yLjItYmV0YS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMi1iZXRhLjEKb1BvOUxwQ0FQenlFOG9xNllqM2YvVEtvVDNHVWFuVTRBaHZXVW55bU9TU3JZdzRwLzJveUY3Z0RYR0FoL1VFN20zL0NMdVBBRjBPbi91Tk82Z242Qnc9PQo=",
+      "url": "https://github.com/VAR7IANT/Velaterm-updates/releases/download/v0.2.2-beta.1/VelaTerm_0.2.2-beta.1_x64-setup.exe"
+    }
+  }
+}
