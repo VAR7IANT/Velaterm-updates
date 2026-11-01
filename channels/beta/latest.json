@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2-beta.2",
-  "notes": "### Changed\n- Second updater-enabled build, published to exercise the in-app update from 0.2.2-beta.1 (detect, download with progress, confirm, install, restart). No functional changes.",
-  "pub_date": "2026-10-27T04:11:16Z",
+  "version": "0.3.0-beta.1",
+  "notes": "### Added\n- Paste OpenSSH or PEM private keys directly into the SSH connection dialog, with optional passphrases and no temporary key files.\n- Keep a pasted key for the current tab, store it in the system credential store, or require it again on reconnect. Saved hosts contain only a key reference.\n- Choose whether to remove remembered credentials when deleting a saved host.\n\n### Changed\n- Distinguish private-key, passphrase, network and handshake errors without including key contents in diagnostics.",
+  "pub_date": "2026-11-01T11:36:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScFBaYmhWT3BWUGtKN1NweFkzSTNkUDJlbU5JUjZiUExadGltMG8zNjgrazlySEZCakRRcjdyL1ExWk5MVlFFSkg5UFAwY3FyRTBRZlFMa09rYnovc3llRlVQRjlNNUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc0Mjc2CWZpbGU6VmVsYVRlcm1fMC4yLjItYmV0YS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMi1iZXRhLjIKZzBZTmVNYTdZVlgxckNGUEdiZzNNMUtWZ1ZuYnZIZS9hbitJejN3TngrWmt2K1lILzQ0QUxKSXYzcm9KbUxJSi9IQ2p5eGxCMytiNWNHTjhSZzhGQ0E9PQo=",
-      "url": "https://github.com/VAR7IANT/Velaterm-updates/releases/download/v0.2.2-beta.2/VelaTerm_0.2.2-beta.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScFBaYmhWT3BWUHBUNFREVitOMUFtRmhDQVdUb2NOWWlZSXBCZFNaUzRiTnQxOWZBQzRsdnV1SkF4YW9SenRNcWRVcml6YTIwNHAycDI3UHFPU3ZaU21YaU9MSnNwQmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTMyOTg0CWZpbGU6VmVsYVRlcm1fMC4zLjAtYmV0YS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMC1iZXRhLjEKZUtDazQxMm00ZTJKQTRMMVR1SWlOQjd2N3FxcE5mTlJ0NjNiU1ZlNE9DVnE2ZS9kQlRUakVqYmdZcXVRc1JoK2E1WWlrRzR0dzRHRk9xUDUzZmRjQ1E9PQo=",
+      "url": "https://github.com/VAR7IANT/Velaterm-updates/releases/download/v0.3.0-beta.1/VelaTerm_0.3.0-beta.1_x64-setup.exe"
     }
   }
 }
